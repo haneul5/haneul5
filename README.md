@@ -30,6 +30,16 @@ I'm developer !! 👋
 | 2022.10.07 | 22-1 한성대학교 창의융합성과 경진대회 (C&C Festival) | 금상🥈 |
 | 2021.09.24 | 제 17회 한성공학경진대회 | 작품부문 금상 🥈, 특허부문 동상 🥉 |
 
+<br/>
+
+## 📌 대웅제약 인턴 (AI, backend developer, infra(AWS))
+
+[**2024.02 ~ 2024.05**]
+IT 전략팀 근무
+
+수행 프로젝트 - 캐릭터 일러스트
+PM : TASK 분배 및 기능 구체화
+개발 : backend 및 아키텍처 설계 + 프로젝트 aws 배포
 
 <br/>
 
@@ -349,13 +359,6 @@ AI 개발자 4가지 과정 수료
 <br/>
 
 
-## 📚 Study
-<br/>
-
-**ing 🏃‍♀️**
-- [2023.02.11 ~ ] [**알고리즘 스터디**](https://github.com/6-Sense-AI/AIVLE-AlgorithmStudy)
-- [2023.08.17 ~ ] [**백엔드 스터디**](https://github.com/haneul5/Spring-Study)
-</br>
  
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:fivesky423@gmail.com)
